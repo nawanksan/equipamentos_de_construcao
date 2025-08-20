@@ -24,7 +24,7 @@ function Home() {
         <a href="">📞WhatsApp</a>
         <a href="">🚩Localização</a>
       </div>
-      
+
       <div className="flex justify-center gap-20 my-4">
         <div className=" p-4 bg-white border border-white rounded-md shadow-md shadow-gray-500">
           <img
@@ -44,8 +44,9 @@ function Home() {
           Jardinagem
         </div>
       </div>
-      <h2 className="px-20 my-5">Destaques em aluguel de equipamentos e ferramentas</h2>
-      <div className="flex gap-4 px-20 my-10">
+      <h2 className="px-20 my-5 font-bold ">Destaques em aluguel de equipamentos e ferramentas</h2>
+      
+      <div className="flex gap-4 px-20 my-5">
         <div className=" p-4 bg-white border border-white rounded-md shadow-md shadow-gray-500">
           <img
             src="src\assets\betonera.jpg"
